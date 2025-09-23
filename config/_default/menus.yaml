@@ -1,0 +1,94 @@
+leftnav:
+- identifier: 0b8ec725-5f6c-5e5a-2500-e4cddfaaa5c2
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 30320f97-7009-73cd-6c12-4c14264b152f
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 47611357-3261-035f-e662-d8aab1756348
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 8012742b-3520-2379-06a2-d660cea0357a
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 33779d0d-2272-95f4-fd73-3176ecd0621c
+  name: Projects
+  pageRef: /pages/projects
+  weight: 50
+- identifier: 2f4a1495-bebc-7b12-406f-45d81ccc3adc
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
+- identifier: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  name: Image Galleries
+  pageRef: /pages/image-galleries/
+  weight: 70
+- identifier: 82355b10-2482-b041-fc0f-80987d9bab81
+  name: Frames and Tubes
+  pageRef: /pages/image-galleries/frames-and-tubes
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 80
+- identifier: da9c7976-ec2b-1116-2e7e-1f777c6f19c3
+  name: Tubes, Frames, Lenses and Mirrors
+  pageRef: /pages/image-galleries/tubes-frames-lenses-and-mirrors
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 90
+- identifier: da8cc63f-04fa-1fe8-7ac3-1d94a668f815
+  name: Compass and Spectacles
+  pageRef: /pages/image-galleries/compass-and-spectacles
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 100
+- identifier: 52359a2b-465b-b053-08c6-9cabe4b1e911
+  name: Glass Blowing and Lenses
+  pageRef: /pages/image-galleries/glass-blowing-and-lenses
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 110
+- identifier: 09d4b066-c954-9fb7-b6b9-d0fbb82f4379
+  name: Observations
+  pageRef: /pages/image-galleries/observations
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 120
+- identifier: 60d8ea65-c9fc-e44b-0958-399a36777ff3
+  name: Observations and Motion
+  pageRef: /pages/image-galleries/observations-and-motion
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 130
+- identifier: 1c7abb95-9511-7e57-e751-3c3b66e4c637
+  name: Motion and Telescope
+  pageRef: /pages/image-galleries/motion-and-telescope
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 140
+- identifier: b53fe68f-10e2-2417-1cf4-0063e3aa65d8
+  name: Slide Rule
+  pageRef: /pages/image-galleries/slide-rule
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 150
+- identifier: c85a3246-85ae-7c1a-096e-75b96a411223
+  name: Telescope
+  pageRef: /pages/image-galleries/telescope
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 160
+- identifier: 3a42a38d-9035-f6cb-e8a4-947e3cb57ec9
+  name: Lenses
+  pageRef: /pages/image-galleries/lenses
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 170
+- identifier: 45b4d2da-8505-7fa9-1b8d-ed1db8e1d195
+  name: Motion, Lens and the Observatory
+  pageRef: /pages/image-galleries/motion-lens-and-the-observatory
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 180
+- identifier: fbd800a3-3869-b8fd-301e-06d780a7360c
+  name: Motion and Light
+  pageRef: /pages/image-galleries/motion-and-light
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 190
+- identifier: bc4e345a-0995-d6fb-e46e-dc056e61274a
+  name: Light
+  pageRef: /pages/image-galleries/light
+  parent: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
+  weight: 200

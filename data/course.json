@@ -1,0 +1,47 @@
+{
+  "term": "January IAP",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ]
+  ],
+  "legacy_uid": "cfa21986-ec57-8002-a932-f6c5815ab65f",
+  "instructors": {
+    "content": [
+      "55aa90db-559d-5311-4976-bcb0a8f91b1f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "118ea950-73a9-8499-3724-3a6d7307075c",
+    "website": "ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010"
+  },
+  "course_title": "Recreate Experiments from History: Inform the Future from the Past: Galileo",
+  "course_description": "2010 marks the 400th anniversary of Galileo's astonishing sightings of features on the moon, stars, and moons around Jupiter that no one had seen before. Recreate these new ways of seeing and exploring from the materials and techniques Galileo had on hand, while you reflect on the times and works of Galileo. What was it like to improvise new ways of seeing and exploring from the materials and techniques on hand? What do we notice? What surprises us? How can we relate to past experience and ideas? What are we curious to research? How does our experimenting grow into our learning? Let your own curiosity drive your explorations.\n",
+  "department_numbers": [
+    "EC"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "EC.050",
+  "course_image_thumbnail": {
+    "content": "de2e7c68-881a-2447-a2c9-1846bce11718",
+    "website": "ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects",
+    "Image Gallery",
+    "Activity Assignments",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "c933eb8d-6fab-478b-926a-e41177e007a9",
+  "site_short_id": "ec.050-january-iap-2010",
+  "site_url_path": "courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010",
+  "title": "Course Metadata"
+}
