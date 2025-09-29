@@ -4,6 +4,8 @@ description: This file contains information regarding student work.
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/dd1764e4d5f7cafc58ba400fc3eefecc_MITEC_050IAP10_StudentWork.pdf
 file_size: 141758
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

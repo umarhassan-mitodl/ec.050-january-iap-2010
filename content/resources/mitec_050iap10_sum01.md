@@ -5,6 +5,8 @@ description: 'This resource contains the information about the horizontal line, 
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/cfe42ba4fbe6ebf65bceb4843a3d23b4_MITEC_050IAP10_sum01.pdf
 file_size: 1315903
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

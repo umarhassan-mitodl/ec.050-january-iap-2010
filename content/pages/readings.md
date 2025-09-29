@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the course readings, organized by topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -40,10 +42,10 @@ Galileo. _On Motion and On Mechanics, Comprising De Motu (ca. 1590) and Le Mecca
 
 ———. _Two New Sciences_. Madison, WI: University of Wisconsin Press, 1974, Sections 140-141.
 
-{{% resource_link "4f08ee15-f9bd-4f47-aeba-e23986dd0291" "Galileo. Dialogue Concerning the Two World Systems." %}}  
+[Galileo. Dialogue Concerning the Two World Systems.](http://science.sciencemag.org/content/119/3095/546.3)  
 \[A condensed, shortened version of Drake's translation of Galileo's dialogue.\]
 
-{{% resource_link "75b2e5c2-0ad7-46f1-a68e-96d52a22f4f0" "English translation, Galileo's Two New Sciences Complete" %}}  
+[English translation, Galileo's Two New Sciences Complete](http://galileoandeinstein.physics.virginia.edu/tns_draft/index.html)  
 \[Galileo's complete 1638 book on motion, in a web form, English translation of 1914.\]
 
 Aris, Rutherford, et al. _Springs of Scientific Creativity_. Minneapolis, MN: University of Minnesota Press, 1983, chapter 1. ISBN: 9780816668304.
@@ -92,9 +94,9 @@ Cavicchi, Elizabeth. "Witness Account of Solar Microscope Projections: Collectiv
 
 Morrison, Philip, and Phylis Morrison. _The Ring of Truth: An Inquiry into How We Know What We Know_. New York, NY: Random House, 1987. ISBN: 9780394556635.
 
-conspiersacy. ""The Ring of Truth: Atoms" featuring Julia Child." February 02, 2007. YouTube. Accessed May 2, 2008. {{% resource_link "0946be90-4b16-4988-be77-b23ce13b9e7d" "http://www.youtube.com/watch?v=iw-cZhTISBk" %}}
+conspiersacy. ""The Ring of Truth: Atoms" featuring Julia Child." February 02, 2007. YouTube. Accessed May 2, 2008. [http://www.youtube.com/watch?v=iw-cZhTISBk](http://www.youtube.com/watch?v=iw-cZhTISBk)
 
-chickan. ""The Ring of Truth: Atoms" featuring Julia Child part 2." December 31, 2008. YouTube. Accessed May 2, 2008. {{% resource_link "03a3b62e-91fd-4bc3-bb8b-292b92d09c2d" "http://www.youtube.com/watch?v=PJ-mVHoosdI" %}}
+chickan. ""The Ring of Truth: Atoms" featuring Julia Child part 2." December 31, 2008. YouTube. Accessed May 2, 2008. [http://www.youtube.com/watch?v=PJ-mVHoosdI](http://www.youtube.com/watch?v=PJ-mVHoosdI)
 
 Morrison Philip, Morrison Phylis, and the Office of Charles and Ray Eames. _Powers of Ten: About the Relative Size of Things in the Universe_. New York, NY: Scientific American Books, 1982. ISBN: 9780716714095.
 
@@ -114,7 +116,7 @@ Morrison Philip, Morrison Phylis, and the Office of Charles and Ray Eames. _Powe
 
 McMullin, Ernan. _Galileo: Man of Science_. New York, NY: Basic Books, Inc., 1967, chapter 13.
 
-{{% resource_link "c370df71-0a6e-4ed7-bc4a-8dbf559bb6ce" "Galileo's compass. Drake's translated text." %}}  
+[Galileo's compass. Drake's translated text.](http://brunelleschi.imss.fi.it/esplora/compasso/)  
 \[Florence museum website presentation of Galileo's compass, texts, and its uses.\]
 
 Galileo. _Operations of the Geometric and Military Compass, 1606_. Washington, DC: Smithsonian Inst Pr, 1978. ISBN: 9780874743838.
@@ -241,9 +243,9 @@ Cavicchi, Elizabeth. "Perspectives on Science." _Perspectives on Science_ 14, no
 
 ———. "Charles Grafton Page's Experiment with a Spiral Conductor." _Technology and Culture_ 49, no. 4 (2008): 1097-3729.
 
-———. "Reflections on the Teaching of Gerbert of Aurillac." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 7-21. ({{% resource_link "ebb2466f-24f0-49b6-93aa-8644153f8a13" "PDF - 4.3MB" %}})
+———. "Reflections on the Teaching of Gerbert of Aurillac." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 7-21. ([PDF - 4.3MB](https://www.researchgate.net/publication/304159286_Reflections_on_the_Teaching_of_Gerbert_of_Aurillac))
 
-———. "Activity inspired by Medieval Observers with Tubes." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 22-39. ({{% resource_link "b2606fa8-0b68-4416-82e4-88eb54f8a4b1" "PDF - 4.3MB" %}})
+———. "Activity inspired by Medieval Observers with Tubes." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 22-39. ([PDF - 4.3MB](http://irsol.ch/costantino_sigismondi/OrbeNovus_volume2010.pdf))
 
 
 {{< tdclose >}}

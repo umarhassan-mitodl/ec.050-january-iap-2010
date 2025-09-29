@@ -5,6 +5,8 @@ description: 'This resource contains the information about the observing with li
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/6f189043de41b5ae4472203c86198732_MITEC_050IAP10_sum10.pdf
 file_size: 676301
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

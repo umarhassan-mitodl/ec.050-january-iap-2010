@@ -5,6 +5,8 @@ description: 'This resource contains the information about the geometrical compa
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/52094433fee8bbca9901714d29e7f7ff_MITEC_050IAP10_sum05.pdf
 file_size: 549590
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

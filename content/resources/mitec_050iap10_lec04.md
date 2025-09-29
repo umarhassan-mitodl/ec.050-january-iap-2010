@@ -4,6 +4,8 @@ description: 'This resource contains the photos and graphs for the course. '
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/f3f30423d06e02e64fbd478e8dad257c_MITEC_050IAP10_lec04.pdf
 file_size: 1032362
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

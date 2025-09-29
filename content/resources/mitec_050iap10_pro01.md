@@ -5,6 +5,8 @@ description: 'This resource contains the information about the medieval drawing,
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/27df094f9502a0ee9cb849ef7080018f_MITEC_050IAP10_pro01.pdf
 file_size: 136492
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

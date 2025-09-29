@@ -5,6 +5,8 @@ description: 'This resource contains the information about the Galileo studies a
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/3cb4bd1fdb1a2429a1024722922dd3f0_MITEC_050IAP10_lec01.pdf
 file_size: 1595121
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

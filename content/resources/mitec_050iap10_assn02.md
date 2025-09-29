@@ -4,6 +4,8 @@ description: This file contains information regarding assignment 02.
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/1996e68d49426ada32b56e3256de7db0_MITEC_050IAP10_assn02.pdf
 file_size: 161999
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

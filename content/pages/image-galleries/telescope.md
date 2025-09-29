@@ -3,6 +3,8 @@ content_type: page
 description: Image gallery consisting of selected collections of photos taken by the
   course instructor Dr. Elizabeth Cavicchi. They show students participating in activities
   involving the telescope.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Image Galleries

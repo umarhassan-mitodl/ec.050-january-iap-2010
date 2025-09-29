@@ -5,6 +5,8 @@ description: This resource contains the information about the Galileo's experime
 file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/dd9a279f5b3bc896c4e53a851ba5948a_MITEC_050IAP10_sum08.pdf
 file_size: 1035509
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
